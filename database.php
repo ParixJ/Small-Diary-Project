@@ -1,5 +1,7 @@
 <?php
 
+//Database named "diary" to be added in mysql database.
+
 $servername = "localhost";
 $user = "root";
 $pass = "";
